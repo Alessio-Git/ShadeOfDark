@@ -4,7 +4,7 @@
 
 <h1 align="center" style="padding-top:0px; margin-top: 0px">Moscky_ Profile Page</h1>
 
-
+<a href="#">
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -15,12 +15,14 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-</p>
+</p></a>
 
 
 TODO
 
 <hr>
+<a href="#">
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shadeofdark&show_icons=true" alt="ShadeOfDark"/>
 </p>
+</a>
