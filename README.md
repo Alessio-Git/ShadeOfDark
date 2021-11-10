@@ -2,7 +2,7 @@
 <img src="https://minepic.org/avatar/Moscky_" style="border-radius: 16px; padding-bottom: 0px" width="100" height="100" >
 </p>
 
-<h1 align="center" style="padding-top:0px; margin-top: 0px">Moscky_ Profile Page</h1>
+<h1 align="center" style="padding-top:0px; margin-top: 0px; ">Moscky_ Profile Page <img src="https://komarev.com/ghpvc/?username=ShadeOfDark&color=ff69b4"></h1>
 
 
 <p align="center">
@@ -43,12 +43,3 @@
 </a>
 </p>
 
-
-TODO
-
-<hr>
-<a href="#">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shadeofdark&show_icons=true" alt="ShadeOfDark"/>
-</p>
-</a>
