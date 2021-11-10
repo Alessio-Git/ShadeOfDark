@@ -4,7 +4,7 @@
 
 <h1 align="center" style="padding-top:0px; margin-top: 0px">Moscky_ Profile Page</h1>
 
-<a href="#" style="text-decoration: none">
+<a href="" style="text-decoration: none;">
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
