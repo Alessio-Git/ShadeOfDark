@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/93660860?v=4" style="border-radius: 16px; padding-bottom: 0px" width="100" height="100" >
+<img src="https://minepic.org/avatar/Moscky_" style="border-radius: 16px; padding-bottom: 0px" width="100" height="100" >
 </p>
 
 <h1 align="center" style="padding-top:0px; margin-top: 0px">Moscky_ Profile Page</h1>
@@ -21,9 +21,6 @@
 TODO
 
 <hr>
-<p style="position: fixed;display: block; align: left;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeOfDark">
-</p>
-<p style="display: block; float:right;">
-<img src="https://github-readme-stats.vercel.app/api?username=ShadeOfDark&show_icons=true&count_private=true&" alt="ShadeOfDark" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shadeofdark&show_icons=true" alt="ShadeOfDark"/>
 </p>
