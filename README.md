@@ -21,9 +21,9 @@
 TODO
 
 <hr>
-<p style="position: fixed; float:right;">
+<p style="position: fixed;display: block; align: left;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeOfDark">
 </p>
-<p style="position: fixed; float:left;">
+<p style="display: block; float:right;">
 <img src="https://github-readme-stats.vercel.app/api?username=ShadeOfDark&show_icons=true&count_private=true&" alt="ShadeOfDark" />
 </p>
